@@ -407,7 +407,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility 4A :
 
- <img width="1913" height="1199" alt="IOT 4 A" src="https://github.com/user-attachments/assets/b45a4aef-d886-438b-b360-c6e326afd7e6" />
+<img width="1919" height="1136" alt="Screenshot 2026-03-10 151504" src="https://github.com/user-attachments/assets/55ae6e46-f80d-431d-b6e4-3c6021395dae" />
+
 
 ## STM 32 CUBE PROGRAM 4B :
 ```
@@ -708,7 +709,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ## Output screen shots of serial port utility 4B :
  
-<img width="1918" height="1199" alt="IOT 4B" src="https://github.com/user-attachments/assets/fdb17ec9-059b-4f94-9525-410a2fe591d1" />
+<img width="1918" height="1137" alt="Screenshot 2026-03-10 153414" src="https://github.com/user-attachments/assets/53e2cb16-7bc7-4c6f-a2a2-4bb3f1b6b35d" />
+
 
  
  ## Circuit board:
